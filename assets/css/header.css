@@ -35,6 +35,11 @@
     color: #000;
 }
 
+.container nav ul li a:hover,
+.container nav ul a li:hover {
+    color: #746e6e
+}
+
 .container .register__list #sign-up {
     text-decoration: none;
     padding: 1rem 0.5rem;
