@@ -1,0 +1,47 @@
+
+.container nav span,
+.container nav,
+.container nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.container nav span h2 {
+    margin-right: 12rem;
+}
+
+.container nav {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.container nav span img {
+    margin-right: 0.8rem;
+}
+
+.container nav span h2 {
+    font-size: 1.8rem;
+}
+
+.container nav ul li {
+    list-style: none;
+}
+
+.container nav ul li a,
+.container nav ul a li {
+    font-size: 1.6rem;
+    margin: auto 1.8rem;
+    text-decoration: none;
+    color: #000;
+}
+
+.container .register__list #sign-up {
+    text-decoration: none;
+    padding: 1rem 0.5rem;
+    border-radius: 0.8rem;
+    background-color: #8E2424;
+}
+
+.container .register__list #sign-up li {
+    color: #fff;
+}
