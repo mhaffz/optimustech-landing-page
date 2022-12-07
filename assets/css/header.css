@@ -6,7 +6,7 @@
     align-items: center;
 }
 
-.container nav span h2 {
+.container nav span h1 {
     margin-right: 12rem;
 }
 
@@ -19,7 +19,7 @@
     margin-right: 0.8rem;
 }
 
-.container nav span h2 {
+.container nav span h1 {
     font-size: 1.8rem;
 }
 
@@ -32,19 +32,19 @@
     font-size: 1.6rem;
     margin: auto 1.8rem;
     text-decoration: none;
-    color: #000;
+    color: var(--gray-color);
 }
 
 .container nav ul li a:hover,
 .container nav ul a li:hover {
-    color: #746e6e
+    color: rgb(102, 112, 133, 0.7)
 }
 
 .container .register__list #sign-up {
     text-decoration: none;
     padding: 1rem 0.5rem;
     border-radius: 0.8rem;
-    background-color: #8E2424;
+    background-color: var(--blackred-color);
 }
 
 .container .register__list #sign-up li {
