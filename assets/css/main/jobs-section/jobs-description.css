@@ -1,0 +1,43 @@
+.jobs__description {
+    width: 66%;
+    visibility: hidden;
+}
+
+.jobs__type, .jobs__items {
+    width: 100%;
+}
+
+.jobs__items {
+    margin-top: 6.4rem;
+    align-items: start;
+}
+
+.jobs__items h3 {
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+
+.jobs__items div {
+    margin-bottom: 2.4rem;
+    border: 1px solid #EAECF0;
+    border-radius: 1.6rem;
+    padding: 2.5rem;
+    width: 90%;
+    align-items: start;
+}
+
+.jobs__items div span {
+    display: flex;
+    flex-direction: row;
+}
+
+.jobs__items div h4 {
+    font-size: 1.6rem;
+    margin-bottom: 3rem;
+}
+
+.jobs__items div p {
+    font-size: 1.3rem;
+    color: var(--gray-color);
+    margin-right: 2rem;
+}

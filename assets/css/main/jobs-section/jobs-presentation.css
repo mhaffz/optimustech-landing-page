@@ -1,0 +1,32 @@
+.jobs__container .jobs__presentation #p__jobs {
+    color: var(--blackred-color);
+    font-size: 1.4rem;
+    font-weight: bold;
+    padding: 0.4rem 1.2rem;
+    border: 1px solid;
+    border-radius: 1.6rem;
+    background-color: rgba(142, 36, 36, 0.05);
+}
+
+.jobs__container .jobs__presentation h2 {
+    color: #000;
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.jobs__container .jobs__presentation p {
+    color: var(--gray-color);
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.jobs__container .jobs__presentation img {
+    width: 100%;
+    margin-top: 6rem;
+}
+
+.jobs__presentation {
+    align-items: center;
+}

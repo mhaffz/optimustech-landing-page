@@ -1,0 +1,17 @@
+.jobs {
+    visibility: hidden;
+}
+
+.jobs__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.jobs__container div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
