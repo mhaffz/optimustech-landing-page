@@ -1,3 +1,13 @@
+.header__container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1;
+}
+
 .container nav span,
 .container nav,
 .container nav ul {
